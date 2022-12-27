@@ -8,4 +8,5 @@ _Меня зовут Пушницын Айрат._
 
 Прохожу обучение на курсе Python - разработчик с нуля
 
-![Мое фото](file:///C:/Users/Ryze/Desktop/Мусор/UEzR3X1jQMs.jpg)
+*Мое фото*
+![image](https://user-images.githubusercontent.com/121195789/209708854-cedafb51-52f6-42b9-869d-d4247e6803ab.png)
